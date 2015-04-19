@@ -1,0 +1,5 @@
+se/eniro/search/conf/SearchConfiguration.class
+se/eniro/search/SearchApplication.class
+se/eniro/search/api/RequestEntity.class
+se/eniro/search/services/SearchService.class
+se/eniro/search/resources/SearchResource.class
