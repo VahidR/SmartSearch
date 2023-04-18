@@ -1,4 +1,6 @@
-# Introduction
+# This project is archived!
+
+## Introduction
 
 
 The main purpose of this micro-service is to ease the process of searching from the command line. 
@@ -35,7 +37,7 @@ Here are the list of filters that can be used :
 
 
 
-# Building and running the service
+## Building and running the service
 
 To build and run the service, follow these steps :
 
